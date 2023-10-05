@@ -4,7 +4,9 @@ Name: Leisha Aloma Dias
 
 Linkedin: www.linkedin.com/in/leisha-dias
 
-Hosted Link: 
+Hosted Link: http://3.84.162.173        [AWS]
+             	hospitalAPI.mooo.com      [freedns.afraid.org]
+
 
 ## Problem statement
 
